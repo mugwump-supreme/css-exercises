@@ -1,0 +1,19 @@
+p.paragraph {
+  background-color:#ff69b4;
+  font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+p.special {
+  font-size:24px;
+}
+
+#one {
+  color:blue;
+  font-size:36px;
+}
+
+#two {
+  background-color:lightgreen;
+  font-size:24px;
+  font-weight:bold;
+}
